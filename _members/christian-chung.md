@@ -1,11 +1,11 @@
 ---
-name: Jane Smith
+name: Christian Chung
 image: images/photo.jpg
 role: pi
-affiliation: University of Colorado
+affiliation: University of Southern California
 aliases:
-  - J. Smith
-  - J Smith
+  - C. Chung
+  - C Chung
 links:
   home-page: https://janesmith.com
   orcid: 0000-0001-8713-9213
