@@ -10,10 +10,10 @@ proofer: false
 links:
   email: cmchung0@gmail.com
   orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  youtube: YourLabChannel
+  google-scholar: https://scholar.google.com/citations?hl=en&user=wxq2m7QAAAAJ
+  github: https://github.com/cmchung5
+  twitter: https://x.com/christianchung0
+  youtube: https://www.youtube.com/
 
 ### jekyll settings
 
